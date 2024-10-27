@@ -68,10 +68,10 @@ You have the following rights regarding your personal data:
 - **Correction of Data:** You can request corrections to inaccurate or incomplete data.
 - **Deletion of Data:** You can request deletion of your data if you choose to close your account.
 
-To exercise any of these rights, please contact us via email: [aa@hotmail.com](mailto:aa@hotmail.com)
+To exercise any of these rights, please contact us via email: [kaan1662@hotmail.com](mailto:kaan1662@hotmail.com)
 
 ## 7. Changes to the Privacy Policy
 
 This privacy policy may be updated as our services evolve. Any changes will be communicated through this page. For significant changes, we may notify users directly via email or through in-app notifications.
 
-For more information or if you have any questions regarding this privacy policy, please contact us at: [aa@hotmail.com](mailto:kaan1662@hotmail.com)
+For more information or if you have any questions regarding this privacy policy, please contact us at: [kaan1662@hotmail.com](mailto:kaan1662@hotmail.com)
