@@ -68,10 +68,20 @@ export default function Home() {
 
         <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>4. Third-Party Services</h2>
         <p>
+          We collect and use your location data only for the following purposes:
+        </p>
+        <ul>
+          <li>To provide accurate route recommendations based on your current location.</li>
+          <li>To calculate the distance to places you are interested in.</li>
+          <li>To ensure the best possible user experience by providing location-based features.</li>
+          <li>This data is used solely within the app and is not shared with any third-party services except for the functionality provided by Google Maps API.</li>
+        </ul>
+        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>5. Third-Party Services</h2>
+        <p>
           Our app relies on trusted third-party services like Google Firebase to store and process data. For details about Firebase privacy practices, refer to Google Firebase Privacy Policy.
         </p>
 
-        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>5. Data Sharing</h2>
+        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>6. Data Sharing</h2>
         <p>We do not sell or rent your data. Data may be shared under the following circumstances:</p>
         <ul style={{ paddingLeft: "20px" }}>
           <li>If required by law or legal proceedings.</li>
@@ -79,7 +89,7 @@ export default function Home() {
           <li>To investigate violations of our terms or ensure app security.</li>
         </ul>
 
-        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>6. Your Rights</h2>
+        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>7. Your Rights</h2>
         <p>You have the following rights regarding your data:</p>
         <ul style={{ paddingLeft: "20px" }}>
           <li><strong>Access:</strong> Request access to the personal data we store.</li>
@@ -88,12 +98,12 @@ export default function Home() {
         </ul>
         <p>To exercise these rights, contact us at: <a href="mailto:kaan1662@hotmail.com">kaan1662@hotmail.com</a></p>
 
-        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>7. Changes to This Policy</h2>
+        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>8. Changes to This Policy</h2>
         <p>
           We may update this Privacy Policy as our services evolve. Significant changes will be communicated through this page or via in-app notifications.
         </p>
 
-        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>8. Contact Us</h2>
+        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>9. Contact Us</h2>
         <p>
           If you have questions or concerns regarding this Privacy Policy, please contact us:
         </p>
