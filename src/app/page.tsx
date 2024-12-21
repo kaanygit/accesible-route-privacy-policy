@@ -66,7 +66,7 @@ export default function Home() {
         </ul>
         <p>While we follow industry standards to protect your data, no system can guarantee complete security.</p>
 
-        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>4. Third-Party Services</h2>
+        <h2 style={{ color: "#333", borderBottom: "2px solid #16a085", paddingBottom: "5px" }}>4. Use of Location Data</h2>
         <p>
           We collect and use your location data only for the following purposes:
         </p>
